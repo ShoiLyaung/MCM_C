@@ -5,4 +5,4 @@ LSTM
 data
 WordleSolver
 /Q1/net.pth
-
+/Q1/word_fre.xlsx
