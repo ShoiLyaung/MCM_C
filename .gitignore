@@ -5,3 +5,4 @@ LSTM
 data
 /Q1/net.pth
 /Q1/word_fre.xlsx
+Q2/myModel.pth
