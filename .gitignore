@@ -1,7 +1,6 @@
 .idea
 .ipynb_checkpoints
 *.docx
-*.png
 LSTM
 data
 WordleSolver
