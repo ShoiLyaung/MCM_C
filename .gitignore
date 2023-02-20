@@ -4,3 +4,4 @@
 *.png
 LSTM
 data
+/Q1/net.pth
